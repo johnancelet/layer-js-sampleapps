@@ -7,7 +7,7 @@ Backbone.$ = $;
 
 var controller = require('./controller');
 
-let appId = window.layerSample.appId;
+var appId = window.layerSample.appId;
 
 /**
  * Initialize Layer Client with `appId`.
