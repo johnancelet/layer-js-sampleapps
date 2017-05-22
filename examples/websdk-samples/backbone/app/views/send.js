@@ -7,7 +7,7 @@ module.exports = Backbone.View.extend({
   initialize: function() {
     this.$el.hide();
   },
-  render() {
+  render: function() {
     this.$el.show();
     this.$el.find('input').focus();
   },

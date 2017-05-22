@@ -10,7 +10,7 @@
 
 
 var Backbone = require('backbone');
-const LayerUIWidgets = window.layerUI.adapters.backbone(Backbone);
+var LayerUIWidgets = window.layerUI.adapters.backbone(Backbone);
 var IdentitiesList = LayerUIWidgets.IdentitiesList;
 
 module.exports = Backbone.View.extend({
