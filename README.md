@@ -145,7 +145,7 @@ module.exports = LayerUIWidgets;
 
 > **Note** This example is in the root folder of this repository; and not in the examples folder.
 
-The [Angular App](./) uses the Layer UI Angular adapter to define the Angular Directives needed to recognize and work with Layer's Webcomponents.  Thus with the following intialization code:
+The Angular app is the default demo shown in this repository, and uses the Layer UI Angular adapter to define the Angular Directives needed to recognize and work with Layer's Webcomponents.  Thus with the following intialization code:
 
 ```javascript
 window.layerUI.init({
