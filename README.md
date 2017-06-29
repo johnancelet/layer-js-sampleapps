@@ -2,6 +2,9 @@
 
 This repository contains sample chat applications that demonstrate different ways of building a Web Application with Layer.  The main example is built using angular, but the [examples] folder contains further examples using Backbone and React.
 
+## Easy Setup
+We've provided an easy way to run these sample apps. See [details here](https://layer.com/world-class-messaging-in-minutes/), or keep reading for the manual steps below.
+
 ## Identity Server
 
 To run this sample, you need to setup an Identity Service.  This by deploying a service to Heroku's free tier of services.
