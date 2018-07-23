@@ -2,6 +2,10 @@
 
 This repository contains sample chat applications that demonstrate different ways of building a Web Application with Layer.  The main example is built using angular, but the [examples] folder contains further examples using Backbone and React.
 
+## Deprecation Warning
+
+This repository demos Layer's WebSDK and Layer UI which are being replaced with Layer's Web XDK.  To see demos of the XDK, see the [Web XDK](https://github.com/layerhq/Web-XDK-Messenger).
+
 ## Easy Setup
 We've provided an easy way to run these sample apps. See [details here](https://layer.com/world-class-messaging-in-minutes/), or keep reading for the manual steps below.
 
